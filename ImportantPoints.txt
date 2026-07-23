@@ -1,0 +1,5 @@
+1. num1==num2 => compare value
+2. num1===num2 => compare value and data type.
+3. x=10, result = x++ => result = 10, x=11. (postincrement - first assign after increment)
+4. x=10, result = ++x => result = 11, x=11  (preincrement -  first increment after assign)
+5. ?: => optional parameter for a function - if you put this to a parameter than right side of all parameter must be optional.
